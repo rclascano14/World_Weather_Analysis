@@ -1,4 +1,6 @@
 # World_Weather_Analysis
+`Plotting the relationship between latitude and weather for cities around the world using Python, Pandas, and APIs.`
+
 ### Resources
 - Python v3.7.6, Dependencies: Pandas, CitiPy, Matplotlib, SciPy, API's, JSON
 - Jupyter Notebook: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb
